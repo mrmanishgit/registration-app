@@ -2,12 +2,12 @@ package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class RegistrationAppApplication {
+public class RegistrationAppApplication extends SpringBootServletInitializer {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RegistrationAppApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(RegistrationAppApplication.class, args);
+    }
 }
