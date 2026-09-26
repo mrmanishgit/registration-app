@@ -6,3 +6,5 @@ C:\Users\ajitm\Downloads>cloudflared-windows-amd64.exe tunnel --url http://local
 C:\Users\ajitm>cd C:\Users\ajitm\OneDrive\Desktop\registrationpage\registration-app
 
 C:\Users\ajitm\OneDrive\Desktop\registrationpage\registration-app>mvnw.cmd clean package
+---------------
+Link:-https://lauderdale-quebec-supervision-treatments.trycloudflare.com/registration-app-0.0.1-SNAPSHOT/
